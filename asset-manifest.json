@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flask/static/css/main.aad41634.css",
+    "main.js": "/flask/static/js/main.f1b9cd4a.js",
+    "static/js/787.d1061748.chunk.js": "/flask/static/js/787.d1061748.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/flask/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/flask/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "index.html": "/flask/index.html",
+    "main.aad41634.css.map": "/flask/static/css/main.aad41634.css.map",
+    "main.f1b9cd4a.js.map": "/flask/static/js/main.f1b9cd4a.js.map",
+    "787.d1061748.chunk.js.map": "/flask/static/js/787.d1061748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad41634.css",
+    "static/js/main.f1b9cd4a.js"
+  ]
+}
